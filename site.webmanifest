@@ -1,0 +1,26 @@
+{
+  "name": "Izabelle 🎂",
+  "short_name": "Iza",
+  "description": "En liten bursdagsfilm til Izabelle.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0b0d1f",
+  "background_color": "#0b0d1f",
+  "lang": "nb",
+  "dir": "auto",
+  "icons": [
+    {
+      "src": "/icon-192x192.png?v=3",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png?v=3",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

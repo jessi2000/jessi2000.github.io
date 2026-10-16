@@ -1,0 +1,3 @@
+# Private birthday page - please do not index.
+User-agent: *
+Disallow: /
